@@ -43,7 +43,7 @@ A comprehensive RESTful API for managing ToDo tasks, featuring user registration
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Sahiba2001/AndersenLab>
 cd todo_project
 ```
 
@@ -64,7 +64,6 @@ pip install -r requirements.txt
 4. **Set up environment variables:**
 ```bash
 cp .env.example .env
-# Edit .env file with your database credentials
 ```
 
 5. **Set up PostgreSQL database:**
@@ -93,7 +92,7 @@ python manage.py runserver
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Sahiba2001/AndersenLab>
 cd todo_project
 ```
 
